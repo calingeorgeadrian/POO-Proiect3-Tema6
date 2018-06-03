@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526849927 source:c:\users\george\desktop\tema6-copy\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
